@@ -16,3 +16,6 @@ Imagens do jogo:
 
 
 ![image](https://github.com/WillianSeidel/3DprojectStudy/assets/126173353/622dca0b-910c-46ae-a385-a7dc2b3a6976)
+
+Tela da implementação do Pause utilizando o atalho esc:
+![image](https://github.com/WillianSeidel/3DprojectStudy/assets/126173353/faefa7c1-132e-4cd1-a1a9-83f458ccffe6)
