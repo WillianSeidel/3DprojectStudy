@@ -1,3 +1,5 @@
+Jogue pelo navegador: https://willianrobertoseidel.itch.io/prototype-skyjump
+
 Tela inicial do jogo:
 ![image](https://github.com/WillianSeidel/3DprojectStudy/assets/126173353/90ead74a-4531-4eaf-9912-dbf88cc2c7a6)
 Tela de controles:
